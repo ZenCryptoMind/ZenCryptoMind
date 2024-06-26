@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">ZenCryptoMind</h1>
-<h3 id="subtitle" align="center">A passionate young developer</h3>
+<h3 id="subtitle" align="center">Passionate Web3 Dev</h3>
 
 
 - 🌐 I’m interested in Blockchain Technologies
