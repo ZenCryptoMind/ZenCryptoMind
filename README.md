@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e6/79/69/e6796926118db6352df42376db3e15d8.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">ZenCryptoMind</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 
